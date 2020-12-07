@@ -1,9 +1,13 @@
-##Project 1
-myworld folder has the gazebo simulation of the project, it has a world, 2 robots with 2 instance of each. 
+# Project 1
 
-To run the project 
+**myworld** folder has the gazebo simulation of the project, it has a world, 2 robots with 2 instance of each. 
 
-1. $ cd myworld/world
+## To run the RoboND Project 1
+
+**$ cd myworld/world**
+
+**$ gazebo myworld**
 
 
-2. $ gazebo myworld
+![RoboND-P1](/roboND-1/test image.png)
+Format: ![Alt Text](url)
