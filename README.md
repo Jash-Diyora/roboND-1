@@ -1,6 +1,6 @@
 # Project 1
 
-**myworld** folder has the gazebo simulation submission of the project.
+**myrobot** folder has the gazebo simulation submission of the project.
 
 ## To run the RoboND Project 1
 
