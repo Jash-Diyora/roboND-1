@@ -10,3 +10,5 @@
 
 
 ![alt text](https://github.com/Jash-Diyora/roboND-1/blob/main/test%20image.png)
+
+![alt text](https://github.com/Jash-Diyora/roboND-1/blob/main/Robot%20Locations.png)
