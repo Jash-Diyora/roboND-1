@@ -2,5 +2,7 @@ myworld folder has the gazebo simulation of the project, it has a world, 2 robot
 
 To run the project 
 
-$ cd myworld/world
-$ gazebo myworld
+1. $ cd myworld/world
+
+
+2. $ gazebo myworld
