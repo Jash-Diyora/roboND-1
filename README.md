@@ -4,7 +4,7 @@
 
 ## To run the RoboND Project 1
 
-**$ cd myworld/world**
+**$ cd myrobot/world**
 
 **$ gazebo myworld**
 
