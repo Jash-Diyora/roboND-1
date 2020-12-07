@@ -9,5 +9,4 @@
 **$ gazebo myworld**
 
 
-![RoboND-P1](/roboND-1/test image.png)
-Format: ![Alt Text](url)
+(/roboND-1/test image.png)
